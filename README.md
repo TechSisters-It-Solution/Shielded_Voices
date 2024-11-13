@@ -22,21 +22,10 @@ Prerequisites
 Flutter SDK installed
 A code editor like Visual Studio Code or Android Studio
 Installation
-Clone the Repository:
+# Clone the Repository:
 
-bash
-Copy code
 git clone https://github.com/TechSisters-It-Solution/Shielded_Voices.git
-cd Shielded-Voices
-Install Dependencies:
 
-bash
-Copy code
-flutter pub get
-Run the App:
-
-bash
-Copy code
 flutter run
 How It Works
 Profile & Navigation: The user profile page features quick navigation with an end drawer to access different sections like reporting, donation, and petition pages.
